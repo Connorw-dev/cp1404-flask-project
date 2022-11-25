@@ -1,3 +1,4 @@
+"""CP1404 Practical 10 - Flask Program to convert celsius to fahrenheit"""
 from flask import Flask
 
 app = Flask(__name__)
